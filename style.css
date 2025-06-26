@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 3%;
+    background: aliceblue;
+    color: black;
+    
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#prokachu {
+    color: black;
+    font-size: 800%;
+    height: 40%;
+}
+
+span {
+    padding: 10%;
+    font-size: 250%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+a {
+    padding: 10%;
+    font-size: 250%;
+    font-weight: bold;
+    text-decoration: none;
+    color: violet;
+    width: fit-content;
+    height: fit-content;
+}
